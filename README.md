@@ -16,6 +16,3 @@ Perfect for beginners learning GitHub and open-source collaboration.
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 
---
-
-END
